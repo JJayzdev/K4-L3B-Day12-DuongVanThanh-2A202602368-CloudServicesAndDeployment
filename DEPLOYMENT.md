@@ -18,8 +18,8 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Public URL | https://k4-l3b-day12-agent.onrender.com |
-| Platform | Render / Docker Local Fallback |
+| Public URL | https://k4-l3b-day12-duongvanthanh-2a202602368-cloudserv-production.up.railway.app/ |
+| Platform | Railway |
 | Ngày deploy | 2026-09-29 |
 
 ## Biến Môi Trường Đã Set Trên Cloud
